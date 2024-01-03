@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BatchStudentMTM_Proj&apos; to &apos;BatchStudent_Proj&apos;" description="Rename resource &apos;BatchStudentMTM_Proj&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BatchStudentMTM_Proj" name="BatchStudent_Proj" stamp="1699253397516" updateReferences="true"/>
+</session>

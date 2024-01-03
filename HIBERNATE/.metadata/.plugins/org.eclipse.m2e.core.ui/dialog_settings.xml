@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Chandu Naidu\OneDrive\Desktop\HIBERNATE\Hibernate_Demo"/>
+			<item value="C:\Users\Chandu Naidu\OneDrive\Desktop\HIBERNATE"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[groupId].[artifactId]"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="org.jsp"/>
+			<item value="org.jsp.hibernatedemo1"/>
+			<item value="org.jsp.hibernatedemo"/>
+			<item value="Hibernate_Demo1"/>
+			<item value="org.hibernate"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="CacheLevel_Demo"/>
+			<item value="HibernateLifeCycle_Proj"/>
+			<item value="Assignment1OTM_Proj"/>
+			<item value="TimeStamp_Proj"/>
+			<item value="Composite-key-demo"/>
+			<item value="Many-To-ManyBi_Proj"/>
+			<item value="Many-To-ManyUni_Proj"/>
+			<item value="One-To-ManyBi_Proj"/>
+			<item value="Many-To-OneUni_Proj"/>
+			<item value="One-To-ManyUni_Proj"/>
+			<item value="One-To-OneBi_Proj"/>
+			<item value="One-To-OneUni_Proj"/>
+			<item value="JPAMerchant_proj"/>
+			<item value="JPAHibernate_Proj"/>
+			<item value="Employee1_App"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[groupId].[artifactId]"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JPAMerchant_proj&apos; to &apos;JPAMerchant_Proj&apos;" description="Rename resource &apos;JPAMerchant_proj&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/JPAMerchant_proj" name="JPAMerchant_Proj" stamp="1693738357418" updateReferences="true"/>
+</session>

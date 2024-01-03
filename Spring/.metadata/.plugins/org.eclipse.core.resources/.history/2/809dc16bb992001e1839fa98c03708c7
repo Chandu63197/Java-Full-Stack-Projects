@@ -1,0 +1,5 @@
+package org.jsp.jdbctemplate;
+
+public class DeleteEmployee {
+
+}

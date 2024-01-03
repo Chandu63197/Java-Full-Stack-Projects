@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+            http://www.springframework.org/schema/beans/spring-beans.xsd
+            http://www.springframework.org/schema/context
+            http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+	<bean id="dept" class="org.jsp.springcidemo.setter.Department">
+		<!-- Injecting List -->
+		<property name="names">
+			<list>
+				<value>ABC</value>
+				<value>XYZ</value>
+				<value>PQR</value>
+			</list>
+		</property>
+		<!-- Injecting Set -->
+		<property name="phones">
+			<set>
+				<value>777</value>
+				<value>888</value>
+				<value>999</value>
+			</set>
+		</property>
+		<!-- Injecting Map -->
+		<property name="details">
+			<map>
+				<entry key="777" value="ABC" />
+				<entry key="888" value="XYZ" />
+				<entry key="999" value="PQR" />
+			</map>
+		</property>
+	</bean>
+</beans>
